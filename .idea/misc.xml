@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/add_image.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/arrow_back.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/c_splash_screen.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/doc.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/home.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/item_bg.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/o_icon.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/pdf_icon.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/drawable/rate.xml" value="0.1465" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/activity_img_to_pdf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_all_pdf.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_image_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_new_pdf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_pdf_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/SHARAD SALODIYA/AndroidStudioProjects/Easy-to-Convert-PDF/app/src/main/res/menu/nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable-v24/color_state_bottom.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable-v24/ic__crop_rotate.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable-v24/ic_twoxthree.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable-v24/ic_twoxtwo.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/add_image.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/arrow_back.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/c_icon.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/c_splash_screen.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/doc.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/ic__crop_rotate.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/ic_content_copy_black_24dp.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/ic_delete_black_24dp.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/ic_menu_camera.xml" value="0.121" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/drawable/ic_open_with_black_24dp.xml" value="0.1445" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/layout/activity_img_to_pdf.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_all_pdf.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_new_pdf.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/layout/fragment_pdf_item.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/layout/item_grid_image.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/menu/menu_delete.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/menu/menu_mainactionmode.xml" value="0.25" />
+        <entry key="..\:/Users/harshmoradiya/Downloads/Easy-to-Convert-PDF/Easy-to-Convert-PDF/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
